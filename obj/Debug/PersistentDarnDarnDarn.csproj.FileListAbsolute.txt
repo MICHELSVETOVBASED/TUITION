@@ -1,0 +1,6 @@
+C:\Program Files (x86)\Microsoft Visual Studio\repos\PersistentDarnDarnDarn\PersistentDarnDarnDarn\bin\Debug\PersistentDarnDarnDarn.exe
+C:\Program Files (x86)\Microsoft Visual Studio\repos\PersistentDarnDarnDarn\PersistentDarnDarnDarn\bin\Debug\PersistentDarnDarnDarn.pdb
+C:\Program Files (x86)\Microsoft Visual Studio\repos\PersistentDarnDarnDarn\PersistentDarnDarnDarn\obj\Debug\PersistentDarnDarnDarn.csproj.AssemblyReference.cache
+C:\Program Files (x86)\Microsoft Visual Studio\repos\PersistentDarnDarnDarn\PersistentDarnDarnDarn\obj\Debug\PersistentDarnDarnDarn.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Microsoft Visual Studio\repos\PersistentDarnDarnDarn\PersistentDarnDarnDarn\obj\Debug\PersistentDarnDarnDarn.exe
+C:\Program Files (x86)\Microsoft Visual Studio\repos\PersistentDarnDarnDarn\PersistentDarnDarnDarn\obj\Debug\PersistentDarnDarnDarn.pdb
