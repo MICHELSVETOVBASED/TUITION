@@ -47,7 +47,7 @@ namespace PersistentDarnDarnDarn
             this._columns = Convert.ToInt32(_columns);
             this._strings = Convert.ToInt32(_strings);
 
-            for (int i = 0; i < _strings; i++)
+            for (int i = 0; i < _strings; i++)//то есть заносим матрицу до массива
             {
                 int[] strings = Console.ReadLine().Split(' ').Select(int.Parse).ToArray();
                 double[] dstrings = new double[strings.Length];
